@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='django-admin-export-xlsxPackageName',
+    name='django-admin-export-xlsx',
     version='1.0.0',
     author='Rune Hansén Steinnes',
     author_email='rune.steinnes@renroros.no',
