@@ -9,7 +9,7 @@ setup(
     url='http://github.com/Ren-Roros-Digital/django-admin-export-xlsx',
     license='LICENSE.txt',
     description='Admin action to export xlsx from list_display',
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     install_requires=[
         "Django >= 3",
         "unidecode >=1.2",
